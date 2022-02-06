@@ -4,7 +4,7 @@
 
 
 ;; (if (not (= *age* 18))
-;;     (format t "You can vote~%")
+;;     (Format t "You can vote~%")
 ;;     (format t "You can't vote~%"))
 
 ;;(if (and (>= *age* 13) (<= *age* 43))
